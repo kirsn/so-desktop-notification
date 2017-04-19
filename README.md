@@ -6,6 +6,7 @@
 * Create a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtual-environments)
 * While creating virtualenv use `--system-site-packages` option
 * `pip install -r requirements.txt`
+    * _Windows only_: Download TKinter (.whl file) from http://www.lfd.uci.edu/~gohlke/pythonlibs/ , and install it using `pip install tkinter_file.whl`
 
 ####Usage:
 * `python script.py tag1 tag2 tag3`
